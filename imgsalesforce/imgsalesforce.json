@@ -1,0 +1,366 @@
+{
+    "totalSize": 40,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001kho9UAA"
+            },
+            "UA_AplicacionN1__c": "Aceites & Grasas",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/aceites-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoAUAQ"
+            },
+            "UA_AplicacionN1__c": "Bebidas & Emulsiones",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/bebidas-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoBUAQ"
+            },
+            "UA_AplicacionN1__c": "C\u00e1rnicos & Alternativas Plant Based",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/carnes-colombia-1.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoCUAQ"
+            },
+            "UA_AplicacionN1__c": "Confiter\u00eda, Helados & Postres",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/confiteria-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoDUAQ"
+            },
+            "UA_AplicacionN1__c": "L\u00e1cteos & Alternativas Plant Based",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/lacteos-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoEUAQ"
+            },
+            "UA_AplicacionN1__c": "Panificaci\u00f3n & Derivados de Cereales",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/panificacion-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoFUAQ"
+            },
+            "UA_AplicacionN1__c": "Sabores, Aromas & Colorantes",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/condiementos-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoGUAQ"
+            },
+            "UA_AplicacionN1__c": "Salsas & Aderezos",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/salsas.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoHUAQ"
+            },
+            "UA_AplicacionN1__c": "Snacks & Sazonadores",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/snacks-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoIUAQ"
+            },
+            "UA_AplicacionN1__c": "Suplementos Alimenticios",
+            "UA_Pais__c": "CO",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/suplementos-colombia.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoJUAQ"
+            },
+            "UA_AplicacionN1__c": "Aceites & Grasas",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/aceites-y-grasas.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoKUAQ"
+            },
+            "UA_AplicacionN1__c": "Bebidas & Emulsiones",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/bebidas.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoLUAQ"
+            },
+            "UA_AplicacionN1__c": "C\u00e1rnicos & Alternativas Plant Based",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/carnes.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoMUAQ"
+            },
+            "UA_AplicacionN1__c": "Confiter\u00eda, Helados & Postres",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/Helados.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoNUAQ"
+            },
+            "UA_AplicacionN1__c": "L\u00e1cteos & Alternativas Plant Based",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/lacteo.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoOUAQ"
+            },
+            "UA_AplicacionN1__c": "Panificaci\u00f3n & Derivados de Cereales",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/panifiacion-ecu.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoPUAQ"
+            },
+            "UA_AplicacionN1__c": "Sabores, Aromas & Colorantes",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/colorantes.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoQUAQ"
+            },
+            "UA_AplicacionN1__c": "Salsas & Aderezos",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/salsas.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoRUAQ"
+            },
+            "UA_AplicacionN1__c": "Snacks & Sazonadores",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/snacks.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoSUAQ"
+            },
+            "UA_AplicacionN1__c": "Suplementos Alimenticios",
+            "UA_Pais__c": "EC",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/suplementos.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoTUAQ"
+            },
+            "UA_AplicacionN1__c": "Aceites & Grasas",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/Aceite-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoUUAQ"
+            },
+            "UA_AplicacionN1__c": "Bebidas & Emulsiones",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/bebidas-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoVUAQ"
+            },
+            "UA_AplicacionN1__c": "C\u00e1rnicos & Alternativas Plant Based",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/carne-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoWUAQ"
+            },
+            "UA_AplicacionN1__c": "Confiter\u00eda, Helados & Postres",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/confiteria-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoXUAQ"
+            },
+            "UA_AplicacionN1__c": "L\u00e1cteos & Alternativas Plant Based",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/lacteos-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoYUAQ"
+            },
+            "UA_AplicacionN1__c": "Panificaci\u00f3n & Derivados de Cereales",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/panificacion-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoZUAQ"
+            },
+            "UA_AplicacionN1__c": "Sabores, Aromas & Colorantes",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/sabores-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoaUAA"
+            },
+            "UA_AplicacionN1__c": "Salsas & Aderezos",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/salsas-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khobUAA"
+            },
+            "UA_AplicacionN1__c": "Snacks & Sazonadores",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/snacks-mexico.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khocUAA"
+            },
+            "UA_AplicacionN1__c": "Suplementos Alimenticios",
+            "UA_Pais__c": "MX",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/03\/suplementos.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khodUAA"
+            },
+            "UA_AplicacionN1__c": "Aceites & Grasas",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/aceites-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoeUAA"
+            },
+            "UA_AplicacionN1__c": "Bebidas & Emulsiones",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/bebidas-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khofUAA"
+            },
+            "UA_AplicacionN1__c": "C\u00e1rnicos & Alternativas Plant Based",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/carnes-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khogUAA"
+            },
+            "UA_AplicacionN1__c": "Confiter\u00eda, Helados & Postres",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/confiteria-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khohUAA"
+            },
+            "UA_AplicacionN1__c": "L\u00e1cteos & Alternativas Plant Based",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/lacteos-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khoiUAA"
+            },
+            "UA_AplicacionN1__c": "Panificaci\u00f3n & Derivados de Cereales",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/panifiacion-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khojUAA"
+            },
+            "UA_AplicacionN1__c": "Sabores, Aromas & Colorantes",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/sabores-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khokUAA"
+            },
+            "UA_AplicacionN1__c": "Salsas & Aderezos",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/07\/salsas-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001kholUAA"
+            },
+            "UA_AplicacionN1__c": "Snacks & Sazonadores",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/sankcs-peru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "UA_AdministracionImagenesPLATON__c",
+                "url": "\/services\/data\/v58.0\/sobjects\/UA_AdministracionImagenesPLATON__c\/a3V6T000001khomUAA"
+            },
+            "UA_AplicacionN1__c": "Suplementos Alimenticios",
+            "UA_Pais__c": "PE",
+            "UA_URLImagenes__c": "https:\/\/www.magentisfood.com\/wp-content\/uploads\/2022\/06\/suplementos-colombia.jpg"
+        }
+    ]
+}
